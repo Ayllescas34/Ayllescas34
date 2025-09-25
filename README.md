@@ -15,7 +15,7 @@
   
 - 🚀 Siempre con ganas de explorar nuevas tecnologías y crecer profesionalmente  
 
-- 📫 You can contact me at **ayllescas34@gmail.com**
+- 📫 Puedes contactarme:  **ayllescas34@gmail.com**
 
 </td>
 <td width="50%" align="center">
