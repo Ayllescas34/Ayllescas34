@@ -35,13 +35,6 @@
   <img src="https://streak-stats.demolab.com?user=Ayllescas34&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ayllescas34&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ayllescas34&theme=tokyonight&hide_border=true&layout=compact"/>
-</p>
 
 ---
  ### 👉 Software & Tools
