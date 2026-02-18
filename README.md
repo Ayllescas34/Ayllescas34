@@ -31,21 +31,17 @@
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Ayllescas34&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <br></br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ayllescas34&theme=tokyonight&hide_border=true"/>
+</p>
 
-</td>
-<td width="50%" align="center">
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ayllescas34&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+</p>
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayllescas34&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-  
-  </td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ayllescas34&theme=tokyonight&hide_border=true&layout=compact"/>
+</p>
 
 ---
  ### 👉 Software & Tools
